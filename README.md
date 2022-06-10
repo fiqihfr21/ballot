@@ -9,3 +9,18 @@ Install all dependencies
 
 Run the react app for deploy smartcontract
 ``` npm start ```
+
+INSTRUCTION HOW TO TEST SMARTCONTRACT
+
+In the root directory run the following command : 
+
+Install all dependencies
+``` npm install or npm i ```
+
+Install truffle
+``` npm install -g truffle  ```
+
+Install truffle ganache on your machine
+
+Install truffle
+``` truffle test --development  ```
